@@ -40,9 +40,6 @@ This folder contains the scripts used to create and complete the tutorial. This 
 
 More info can be found in the folder's README.
 
-## [Feedback](https://github.com/EdDataScienceEES/tutorial-mpskelton/issues?q=is%3Aissue+is%3Aclosed)
-The feedback I received on this tutorial can be found in a closed issue in the issues section of this repository, linked above.
-
 
 ## References
 __Simple Maps Data:__ [https://simplemaps.com/data/us-cities](https://simplemaps.com/data/us-cities)
