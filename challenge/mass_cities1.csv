@@ -1,0 +1,128 @@
+"city","county_fips","county_name","lat","lng"
+"Boston",25025,"Suffolk",42.3188,-71.0852
+"Springfield",25013,"Hampden",42.1155,-72.5395
+"Worcester",25027,"Worcester",42.2705,-71.8079
+"New Bedford",25005,"Bristol",41.6697,-70.9428
+"Leominster",25027,"Worcester",42.5209,-71.7717
+"Cambridge",25017,"Middlesex",42.3759,-71.1185
+"Lowell",25017,"Middlesex",42.6389,-71.3217
+"Brockton",25023,"Plymouth",42.0821,-71.0242
+"Quincy",25021,"Norfolk",42.2506,-71.0187
+"Lynn",25009,"Essex",42.4781,-70.9664
+"Fall River",25005,"Bristol",41.7136,-71.1015
+"Newton",25017,"Middlesex",42.3316,-71.2085
+"Somerville",25017,"Middlesex",42.3908,-71.1014
+"Lawrence",25009,"Essex",42.7002,-71.1626
+"Framingham",25017,"Middlesex",42.3085,-71.4368
+"Haverhill",25009,"Essex",42.7838,-71.0871
+"Waltham",25017,"Middlesex",42.3889,-71.2423
+"Malden",25017,"Middlesex",42.4305,-71.0576
+"Medford",25017,"Middlesex",42.4234,-71.1087
+"Taunton",25005,"Bristol",41.9036,-71.0943
+"Chicopee",25013,"Hampden",42.1764,-72.5719
+"Revere",25025,"Suffolk",42.4189,-71.004
+"Peabody",25009,"Essex",42.5335,-70.9725
+"Methuen Town",25009,"Essex",42.734,-71.1889
+"Everett",25017,"Middlesex",42.4064,-71.0545
+"Attleboro",25005,"Bristol",41.9311,-71.295
+"Salem",25009,"Essex",42.5129,-70.9021
+"Pittsfield",25003,"Berkshire",42.4517,-73.2605
+"Beverly",25009,"Essex",42.5681,-70.8627
+"Westfield",25013,"Hampden",42.1382,-72.7561
+"Fitchburg",25027,"Worcester",42.5912,-71.8156
+"Woburn",25017,"Middlesex",42.4869,-71.1543
+"Holyoke",25013,"Hampden",42.2125,-72.6411
+"Chelsea",25025,"Suffolk",42.3959,-71.0325
+"Marlborough",25017,"Middlesex",42.3494,-71.5468
+"Watertown Town",25017,"Middlesex",42.37,-71.1774
+"Gloucester",25009,"Essex",42.626,-70.6897
+"Northampton",25015,"Hampshire",42.3266,-72.6745
+"Melrose",25017,"Middlesex",42.4556,-71.059
+"Gardner",25027,"Worcester",42.5845,-71.9868
+"Newburyport",25009,"Essex",42.8124,-70.8878
+"North Adams",25003,"Berkshire",42.6844,-73.1166
+"South Yarmouth",25001,"Barnstable",41.6692,-70.2005
+"Mansfield Center",25005,"Bristol",42.0225,-71.218
+"Middleborough Center",25023,"Plymouth",41.8945,-70.926
+"Whitinsville",25027,"Worcester",42.1146,-71.6688
+"West Concord",25017,"Middlesex",42.4517,-71.4035
+"Pinehurst",25017,"Middlesex",42.5334,-71.2339
+"Cochituate",25017,"Middlesex",42.329,-71.3576
+"West Yarmouth",25001,"Barnstable",41.6496,-70.2487
+"East Falmouth",25001,"Barnstable",41.5708,-70.5556
+"North Scituate",25023,"Plymouth",42.2121,-70.7652
+"Bliss Corner",25005,"Bristol",41.6053,-70.9421
+"Yarmouth Port",25001,"Barnstable",41.7091,-70.2225
+"Ocean Bluff-Brant Rock",25023,"Plymouth",42.1006,-70.6626
+"North Westport",25005,"Bristol",41.654,-71.0927
+"East Harwich",25001,"Barnstable",41.7081,-70.0339
+"Smith Mills",25005,"Bristol",41.6432,-70.9922
+"Raynham Center",25005,"Bristol",41.9327,-71.0431
+"The Pinehills",25023,"Plymouth",41.8946,-70.5966
+"Millis-Clicquot",25021,"Norfolk",42.1648,-71.3544
+"North Plymouth",25023,"Plymouth",41.9727,-70.6889
+"North Pembroke",25023,"Plymouth",42.0989,-70.7823
+"Northwest Harwich",25001,"Barnstable",41.6917,-70.1026
+"Sagamore",25001,"Barnstable",41.7842,-70.5332
+"Forestdale",25001,"Barnstable",41.6846,-70.5082
+"Turners Falls",25011,"Franklin",42.5975,-72.5573
+"East Sandwich",25001,"Barnstable",41.7365,-70.4341
+"Dennis Port",25001,"Barnstable",41.6677,-70.1358
+"Acushnet Center",25005,"Bristol",41.685,-70.9064
+"Littleton Common",25017,"Middlesex",42.5352,-71.4727
+"South Duxbury",25023,"Plymouth",42.0203,-70.6913
+"North Lakeville",25023,"Plymouth",41.862,-70.9411
+"Buzzards Bay",25001,"Barnstable",41.755,-70.6128
+"Mattapoisett Center",25023,"Plymouth",41.6666,-70.8056
+"Monument Beach",25001,"Barnstable",41.7192,-70.606
+"East Dennis",25001,"Barnstable",41.7392,-70.1577
+"Fiskdale",25027,"Worcester",42.1229,-72.1089
+"East Douglas",25027,"Worcester",42.0779,-71.7121
+"South Dennis",25001,"Barnstable",41.7051,-70.1537
+"Cordaville",25027,"Worcester",42.2727,-71.5221
+"Norton Center",25005,"Bristol",41.9725,-71.1854
+"Wareham Center",25023,"Plymouth",41.7498,-70.7207
+"Pocasset",25001,"Barnstable",41.6877,-70.6195
+"North Falmouth",25001,"Barnstable",41.6394,-70.6251
+"Cedar Crest",25023,"Plymouth",42.0764,-70.6613
+"West Dennis",25001,"Barnstable",41.6666,-70.1656
+"Ocean Grove",25005,"Bristol",41.7281,-71.2098
+"White Island Shores",25023,"Plymouth",41.7932,-70.6389
+"West Wareham",25023,"Plymouth",41.79,-70.755
+"Marshfield Hills",25023,"Plymouth",42.1487,-70.7315
+"North Seekonk",25005,"Bristol",41.8883,-71.3297
+"South Deerfield",25011,"Franklin",42.4795,-72.5947
+"Baldwinville",25027,"Worcester",42.6048,-72.0771
+"Hanscom AFB",25017,"Middlesex",42.4582,-71.2793
+"Devens",25027,"Worcester",42.5439,-71.6146
+"East Pepperell",25017,"Middlesex",42.6654,-71.5635
+"Harwich Port",25001,"Barnstable",41.6724,-70.0641
+"Vineyard Haven",25007,"Dukes",41.4572,-70.607
+"West Falmouth",25001,"Barnstable",41.6012,-70.6364
+"Oak Bluffs",25007,"Dukes",41.4551,-70.5657
+"North Eastham",25001,"Barnstable",41.8539,-69.9968
+"Monson Center",25013,"Hampden",42.099,-72.3048
+"Shelburne Falls",25011,"Franklin",42.6063,-72.7436
+"Teaticket",25001,"Barnstable",41.5624,-70.5858
+"South Lancaster",25027,"Worcester",42.4373,-71.692
+"Mashpee Neck",25001,"Barnstable",41.6119,-70.4666
+"Harwich Center",25001,"Barnstable",41.6923,-70.0694
+"Weweantic",25023,"Plymouth",41.7396,-70.7346
+"West Chatham",25001,"Barnstable",41.6804,-69.9918
+"Millers Falls",25011,"Franklin",42.5792,-72.4925
+"Marion Center",25023,"Plymouth",41.7042,-70.7629
+"Onset",25023,"Plymouth",41.7481,-70.667
+"Woods Hole",25001,"Barnstable",41.5303,-70.6614
+"South Ashburnham",25027,"Worcester",42.6138,-71.9384
+"Green Harbor",25023,"Plymouth",42.068,-70.6499
+"Housatonic",25003,"Berkshire",42.2487,-73.3626
+"New Seabury",25001,"Barnstable",41.5689,-70.4812
+"West Warren",25027,"Worcester",42.2168,-72.2366
+"Seabrook",25001,"Barnstable",41.5831,-70.4992
+"Lenox Dale",25003,"Berkshire",42.3339,-73.2496
+"Madaket",25019,"Nantucket",41.2826,-70.1855
+"Popponesset",25001,"Barnstable",41.5737,-70.4636
+"Monomoscoy Island",25001,"Barnstable",41.5712,-70.5026
+"Siasconset",25019,"Nantucket",41.2636,-69.9718
+"Seconsett Island",25001,"Barnstable",41.5662,-70.5123
+"Popponesset Island",25001,"Barnstable",41.5855,-70.4591
