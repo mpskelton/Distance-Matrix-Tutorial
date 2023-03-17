@@ -1,5 +1,4 @@
-# Tutorial Assignment
-The final course assignment for Markus Skelton (mpskelton)
+# Tutorial on Matching Cities using a Distance Matrix
 
 ## Overview
 This repository contains all of the materials for the creation of and implementation of my tutorial on using a distance matrix to match location-level data. A general description of each folder can be found below, and my final written tutorial is in the file [`index.md`](https://github.com/EdDataScienceEES/tutorial-mpskelton/blob/master/index.md).
